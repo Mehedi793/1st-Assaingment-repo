@@ -5,7 +5,7 @@ nav{display: flex;
      align-items: center;
      margin: 0px 180px;}
 
-.nav-title{color: dark light;
+.nav-titlle{color: dark light;
     font-weight: bold;
     font-size: 35px;
    
@@ -60,7 +60,7 @@ main{}
 .contact-btn{border-radius: 5px;
             background-color: #031222;
             color: white;
-            padding: 15px 30px;
+            padding: 15px 29px;
             font-size: 25px;
            
            }
